@@ -1811,56 +1811,6 @@ body {
     padding-bottom: 0rem;
   }
 }
-.cid-rqXAZafTU5 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background: #ffffff;
-}
-.cid-rqXAZafTU5 .images-container.container-fluid {
-  padding: 0;
-}
-.cid-rqXAZafTU5 .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-rqXAZafTU5 .media-container-row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  width: 100%;
-  z-index: 1;
-  -webkit-flex-direction: column;
-  -webkit-justify-content: center;
-}
-.cid-rqXAZafTU5 .media-container-row .img-item img {
-  width: 100%;
-  min-height: 1px;
-}
-.cid-rqXAZafTU5 .media-container-row .img-item .img-caption {
-  background: #ffffff;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-rqXAZafTU5 .media-container-row .img-item .img-caption p {
-  margin-bottom: 0;
-}
-.cid-rqXAZafTU5 .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-rqXAZafTU5 .img-item {
-    width: 100% !important;
-  }
-  .cid-rqXAZafTU5 .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-    -webkit-flex-basis: initial !important;
-  }
-}
 .cid-rq2IJBrTzW {
   padding-top: 15px;
   padding-bottom: 30px;
@@ -2412,22 +2362,22 @@ body {
 .cid-rq1pUOOsB9 H2 {
   color: #003399;
 }
-.cid-rq1pKUxrx3 {
+.cid-rqXN6S2WgE {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rq1pKUxrx3 .row-links {
+.cid-rqXN6S2WgE .row-links {
   width: 100%;
   -webkit-justify-content: center;
   justify-content: center;
 }
-.cid-rq1pKUxrx3 .social-row {
+.cid-rqXN6S2WgE .social-row {
   width: 100%;
   -webkit-justify-content: center;
   justify-content: center;
 }
-.cid-rq1pKUxrx3 .media-container-row {
+.cid-rqXN6S2WgE .media-container-row {
   -webkit-flex-direction: column;
   flex-direction: column;
   -webkit-justify-content: center;
@@ -2435,7 +2385,7 @@ body {
   -webkit-align-items: center;
   align-items: center;
 }
-.cid-rq1pKUxrx3 .media-container-row .foot-menu {
+.cid-rqXN6S2WgE .media-container-row .foot-menu {
   list-style: none;
   display: flex;
   -webkit-justify-content: center;
@@ -2445,13 +2395,13 @@ body {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-rq1pKUxrx3 .media-container-row .foot-menu li {
+.cid-rqXN6S2WgE .media-container-row .foot-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-rq1pKUxrx3 .media-container-row .foot-menu li p {
+.cid-rqXN6S2WgE .media-container-row .foot-menu li p {
   margin: 0;
 }
-.cid-rq1pKUxrx3 .media-container-row .social-list {
+.cid-rqXN6S2WgE .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2461,33 +2411,33 @@ body {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rq1pKUxrx3 .media-container-row .social-list .mbr-iconfont-social {
+.cid-rqXN6S2WgE .media-container-row .social-list .mbr-iconfont-social {
   font-size: 1.5rem;
   color: #ffffff;
 }
-.cid-rq1pKUxrx3 .media-container-row .social-list .soc-item {
+.cid-rqXN6S2WgE .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rq1pKUxrx3 .media-container-row .social-list a {
+.cid-rqXN6S2WgE .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rq1pKUxrx3 .media-container-row .social-list a:hover {
+.cid-rqXN6S2WgE .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rq1pKUxrx3 .media-container-row .social-list {
+  .cid-rqXN6S2WgE .media-container-row .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rq1pKUxrx3 .media-container-row .row-copirayt {
+.cid-rqXN6S2WgE .media-container-row .row-copirayt {
   word-break: break-word;
   width: 100%;
 }
-.cid-rq1pKUxrx3 .media-container-row .row-copirayt p {
+.cid-rqXN6S2WgE .media-container-row .row-copirayt p {
   width: 100%;
 }
 .cid-rqXHIjvwno .navbar {
